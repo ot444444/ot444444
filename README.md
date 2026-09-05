@@ -14,5 +14,7 @@ Computer Science student at PUCPR.
 - Creative Technology
 
 ## Projects
--  Pedra, Papel e Tesoura — Python
--  Odisseia — Roguelike Game (Work in Progress)
+
+- [Pedra, Papel e Tesoura — Python](https://github.com/ot444444/pedra-papel-tesoura-python)
+- [Odisseia — Roguelike Game](https://github.com/ot444444/odisseia-roguelike) *(Work in Progress)*
+  
