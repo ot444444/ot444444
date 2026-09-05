@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Otavio 
 
-<!--
-**ot444444/ot444444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at PUCPR.
 
-Here are some ideas to get you started:
+## Currently learning
+- Python
+- Programming Logic & Algorithms
+- Git & GitHub
+- Computer Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Cybersecurity
+- Artificial Intelligence
+- Creative Technology
+
+## Projects
+-  Pedra, Papel e Tesoura — Python
+-  Odisseia — Roguelike Game (Work in Progress)
