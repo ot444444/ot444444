@@ -16,5 +16,5 @@ Computer Science student at PUCPR.
 ## Projects
 
 - [Pedra, Papel e Tesoura — Python](https://github.com/ot444444/pedra-papel-tesoura-python)
-- [Odisseia — Roguelike Game](https://github.com/ot444444/odisseia-roguelike) *(Work in Progress)*
+- [Odisseia — Caminho de Keris](https://github.com/ot444444/odisseia-roguelike) — Completed team academic project: a 2D action game built with Construct 3.
   
